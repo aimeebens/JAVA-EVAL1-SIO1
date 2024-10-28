@@ -38,8 +38,8 @@ public class Main {
                     System.out.print("Entrer la puissance: ");
                     int puissance = scanner.nextInt();
 
-                    while (puissance < 0) {
-                        System.out.println("La puissance doit être superieur ou égal à 0");
+                    while (puissance < 1) {
+                        System.out.println("La puissance doit être superieur ou égal à 1");
                         System.out.print("Entrer la puissance: ");
                         puissance = scanner.nextInt();
                     }
