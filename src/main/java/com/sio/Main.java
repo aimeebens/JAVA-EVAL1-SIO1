@@ -78,8 +78,6 @@ public class Main {
                     break;
 
 
-
-
                     case 3:
                     System.out.println("---------------------------------------------");
                     System.out.println("Exercice 3");
@@ -108,7 +106,6 @@ public class Main {
                     }
                     System.out.println("---------------------------------------------");
                     break;
-
 
 
                     case 4:
